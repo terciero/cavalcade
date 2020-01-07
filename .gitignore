@@ -130,3 +130,4 @@ dmypy.json
 
 # Google API
 client_secrets.json
+upload_video.py-oath2.json
