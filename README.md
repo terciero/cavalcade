@@ -34,7 +34,6 @@ Create a file in the same directory as `cavalcade.py` named `client_secrets.json
 ## Installation
 
 Clone this repository with `git`:
-
 ```
 git clone https://github.com/terciero/cavalcade.git
 ```
@@ -107,3 +106,4 @@ Install Requirements:
 ```
 pip install -r requirements.txt
 ```
+
